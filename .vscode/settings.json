@@ -1,8 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "trilha-bootcamp/src/edu/trilha/edu.trilha.conf.ambiente.java",
+        "trilha-bootcamp/src/edu/trilha/edu.trilha.variaveis",
         "trilha-bootcamp/src/edu/trilha/edu.anatomia.classe",
-        "trilha-bootcamp/src/edu.anatomia.classe",
-        "trilha-bootcamp/src/edu/trilha/edu.trilha.variaveis"
+        "trilha-bootcamp/src/edu/trilha/edu.operadores"
     ]
 }
