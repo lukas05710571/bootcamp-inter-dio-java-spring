@@ -1,4 +1,8 @@
 public class BoletimEscolar {
+    
+    /** 
+     * @param args
+     */
     public static void main(String[] args) {
        int nota = 7;
        if(nota<6)

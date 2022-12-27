@@ -1,4 +1,9 @@
 public class Usuario {
+    
+    /** 
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args)throws Exception {
         SmartTv smartTv = new SmartTv(); 
 // Verificando se a TV está ligada

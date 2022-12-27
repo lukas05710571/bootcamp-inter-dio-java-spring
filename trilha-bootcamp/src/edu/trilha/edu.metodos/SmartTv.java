@@ -30,6 +30,11 @@ public class SmartTv{
         numeroDoCanal--;
     }
 
+    
+    /** 
+     * @param novoCanal
+     * @return int
+     */
     public int escolherCanal(int novoCanal){
         numeroDoCanal = novoCanal;
         return numeroDoCanal;

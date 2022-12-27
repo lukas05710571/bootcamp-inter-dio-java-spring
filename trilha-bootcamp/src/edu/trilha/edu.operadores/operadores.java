@@ -1,5 +1,9 @@
 
 public class operadores {
+    
+    /** 
+     * @param args
+     */
     public static void main(String[] args) {
         // Criando exemplos com Operadores aritimeticos
         // int idade = 2022-1997;
