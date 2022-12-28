@@ -5,5 +5,7 @@
         "trilha-bootcamp/src/edu/trilha/edu.metodos",
         "trilha-bootcamp/src/edu/trilha/edu.anatomia.classe",
         ""
-    ]
+    ],
+    "javadoc-tools.generateJavadoc.targetFolder": "trilha-bootcamp",
+    "javadoc-tools.generateJavadoc.workspaceSourceFolder": "trilha-bootcamp\\src"
 }
